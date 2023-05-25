@@ -1,0 +1,1 @@
+v[3] é igual a chamar o valor do 4º elemento do vetor, v + 3 é chamar o endereço de memória de v + 3 espaços (que o tamanho depende do tipo de variável)

@@ -1,0 +1,1 @@
+Ponteiros são variáveis que guardam o endereço de um espaço de memória de outra variável, eles são dinâmicos e permitem varias operações. Os vetores são um conjunto de elementos guardados em endereços de memória que o vetor aponta, porém ele não é tão dinâmico quanto um ponteiro.

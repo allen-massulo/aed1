@@ -1,0 +1,1 @@
+vetor + 8 bytes * 6 espaços = 85800 + 48 = 85845

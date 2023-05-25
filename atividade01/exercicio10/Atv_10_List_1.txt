@@ -1,0 +1,7 @@
+Em c, uma string é apenas um vetor de caracteres, o que torna a diferença deles sendo que o vetor é uma estrutura de dados fixa, que armazena dados do mesmo tipo. Já os ponteiros apontam para um endereço de memória de uma variável. 
+Exemplo: 
+int x = 0;
+char v[4] = {'A','B','C','D'}; 
+int *p = x; //*p = valor de x
+
+

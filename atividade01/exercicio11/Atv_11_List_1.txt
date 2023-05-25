@@ -1,0 +1,2 @@
+Embora tenham semelhanças, os vetores e os ponteiros não são a mesma coisa e têm propósitos diferentes. Uma das diferenças é que os vetores possuem tamanho fixo e são gerenciados automaticamente, enquanto os ponteiros podem apontar para diferentes locais de memória e precisam gerenciamento manual.
+

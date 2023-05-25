@@ -1,0 +1,1 @@
+ao utilizar pontiros, você pode acessar diretamente posições específicas da memória, sem a necessidade de copiar ou armazenar os dados em várias variáveis.
